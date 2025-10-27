@@ -1,1 +1,4 @@
-# baitapvenha
+Họ Và Tên: Nguyễn Trọng Khánh 
+STT:26
+Mã SV:241747000289
+Lớp: DHKL18A1HN
